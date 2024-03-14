@@ -1,0 +1,23 @@
+__pycache__
+External
+build
+fmatmul.egg-info
+matsrc
+*.egg-info
+*.png
+colmap_garden
+*.so
+.vscode
+*.pth
+*.pt
+*.mp4
+src/gaussian_nosh.cu
+RES.md
+
+# res
+garden3w/
+flowers3w/
+garden/
+garden_default/
+gui_default/
+treehill3w/

@@ -1,0 +1,11 @@
+numpy
+tqdm
+opencv-python
+torchmetrics
+einops
+torchgeometry
+kornia
+viser
+trimesh
+omegaconf
+pykdtree
